@@ -1,28 +1,18 @@
 ## Hi there 👋
 
-<!--
+Welcome to the CloudNativeGeo-Tutorials organization! This organization was created to host tutorials for Cloud-Native Geospatial (CNG) technologies.
 
-**Here are some ideas to get you started:**
-
--->
-
-🙋‍♀️ A short introduction - what is your organization all about?
-
-The CloudNativeGeo-Tutorials organization was created to host tutorials for Cloud-Native Geospatial (CNG) technologies.
-
-🌈 Contribution guidelines - how can the community get involved?
+## 🌈 Contributing to the Tutorials ecosystem
 
 There are several ways you can get involved...
 
-1. **Use the tutorials** -
-2. **Provide feedback** - 
-3. **Suggest a new tutorial** - 
-4. **Author a new tutorial** - 
+1. 🤔 **Use the tutorials** - The main reason these tutorials exist is so that more people can understand what CNG tools are, and how they can use them. 
+2. ✍️ **Provide feedback on existing tutorials** - Tutorials are almost always a work in progress, particularly when they are for actively developed technologies. If you have suggestions for improving a tutorial, let us know!
+3. 🔧 **Fix something** - If you notice something that seems broken, let us know by filling out an issue.
+4. 🖐️ **Suggest a new tutorial** - What tutorials do you think are needed, but aren't available? 
+5. 📜 **Author a new tutorial** - If you enjoy sharing your knowledge with others, consider authoring a new tutorial.
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+## 👩‍💻 Useful resources
 
-
-<!--
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- CNG Guide: [Cloud-Optimized Geospatial Formats Guide](https://guide.cloudnativegeo.org/)
+- Zine: [Optimizing Geospatial for the Cloud](https://zines.developmentseed.org/zines/cloud-native/)
