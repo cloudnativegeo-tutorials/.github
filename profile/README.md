@@ -1,3 +1,5 @@
+![icon_128_smooth](https://github.com/user-attachments/assets/71ece8f0-38c4-40ef-8c6f-06413fdefbe0)
+
 ## Hi there 👋
 
 Welcome to the CloudNativeGeo-Tutorials organization! This organization was created to host tutorials for Cloud-Native Geospatial (CNG) technologies.
