@@ -8,7 +8,7 @@ Welcome to the CloudNativeGeo-Tutorials organization! This organization was crea
 
 There are several ways you can get involved...
 
-1. 🤔 **Use the tutorials** - The main reason these tutorials exist is so that more people can understand what CNG tools are, and how they can use them. 
+1. 🤔 **Use the tutorials** - The [Cloud-Native Geospatial Tutorials](https://cloudnativegeo-tutorials.github.io/cng-tutorials.github.io/) exist is so that more people can understand what CNG tools are, and how they can use those tools. 
 2. ✍️ **Provide feedback on existing tutorials** - Tutorials are almost always a work in progress, particularly when they are for actively developed technologies. If you have suggestions for improving a tutorial, let us know!
 3. 🔧 **Fix something** - If you notice something that seems broken, let us know by filling out an issue.
 4. 🖐️ **Suggest a new tutorial** - What tutorials do you think are needed, but aren't available? 
